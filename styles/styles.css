@@ -1,0 +1,40 @@
+.carousel {
+    height: 500px;
+}
+
+.carousel img {
+    height: 500px;
+}
+
+.carousel-caption {
+    margin-left: 10%;
+}
+
+.carousel-caption h1 {
+    font-size: 60px;
+}
+
+.carousel-caption p {
+    font-size: 20px;
+}
+
+.header-btn {
+    padding: 10px 40px;
+
+}
+
+.explore-btn {
+    padding: 10px 20px;
+}
+
+.package-btn {
+    padding: 10px 30px;
+}
+
+.card-width {
+    width: 90%;
+}
+.footer-style{
+    height: 250px;
+    padding-top: 120px;
+}
